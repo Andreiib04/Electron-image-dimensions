@@ -21,7 +21,7 @@ O objetivo deste projeto é criar uma aplicação simples que permite ao usuári
 ## Como Executar o Projeto
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
-2. Clone o repositório do projeto: `git clone <URL_do_repositório>`
+2. Clone o repositório do projeto: `git clone <https://github.com/Andreiib04/Electron-image-dimensions>`
 3. Acesse o diretório do projeto: `cd electron-study-project`
 4. Instale as dependências do projeto: `npm install`
 5. Execute o aplicativo: `npm start`
